@@ -1,0 +1,7 @@
+{
+  "port" : 5001,
+  "mongoose": {
+    "uri": "mongodb://localhost"
+  },
+  "origin": "http://localhost:3000"
+}

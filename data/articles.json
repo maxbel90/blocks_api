@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://dagbladet.no/ikken/68573788",
+    "label": "First article",
+    "blocks": [
+      {
+        "originalText": "Supermodellen ble beskyldt for å ikke tipse etter et barbesøk. Nå svarer hun på kritikken"
+      },
+      {
+        "originalText": "(Dagbladet): Over helga har en regning som skal tilhøre den verdensberømte modellen, Kendall Jenner (21) sett dagens lys. I ettertid har det stormet mot henne på sosiale medier, etter at mye tydet på at hun ikke hadde lagt igjen noe tips etter et barbesøk."
+      },
+      {
+        "originalText": "Nå har imidlertid «Keeping up with the Kardashians»-stjerna svart på kritikken. Etter utallige kommentarer mot henne, tok 21-åringen til Twitter mandag kveld norsk tid."
+      }
+    ]
+  },
+  {
+    "url": "https://dagbladet.no/ikken/1234567",
+    "label": "Second article",
+    "blocks": [
+      {
+        "originalText": "Supermodellen ble beskyldt for å ikke tipse etter et barbesøk. Nå svarer hun på kritikken"
+      },
+      {
+        "originalText": "I ettertid har det stormet mot henne på sosiale medier, etter at mye tydet på at hun ikke hadde lagt igjen noe tips etter et barbesøk."
+      },
+      {
+        "originalText": "Etter utallige kommentarer mot henne, tok 21-åringen til Twitter mandag kveld norsk tid."
+      }
+    ]
+  }
+]
